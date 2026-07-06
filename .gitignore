@@ -1,0 +1,30 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Database
+backend/*.db
+
+# Environment
+backend/.env
+
+# Uploads
+backend/uploads/
+
+# Exports
+backend/exports/
+
+# Node
+frontend/node_modules/
+
+# Build
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
