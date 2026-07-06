@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SAVIC OMS – Mini Order Fulfillment System (SAP-Inspired)
 
 > A modern Order Management System inspired by the SAP Order-to-Cash (O2C) process, built using **React**, **FastAPI**, and **SQLite**.
@@ -372,3 +373,7 @@ Developed as part of the SAVIC Internship Project.
 # License
 
 This project is developed for educational and internship purposes.
+=======
+# mini-order-fulfillment-system
+ A modern Order Management System inspired by the SAP Order-to-Cash (O2C) process, built using **React**, **FastAPI**, and **SQLite**.
+>>>>>>> a06c5e61b1458b89d99ee5bc8850bd6bda00cf80
